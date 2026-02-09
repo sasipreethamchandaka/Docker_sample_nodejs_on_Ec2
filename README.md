@@ -16,7 +16,7 @@ This guide explains how to deploy a simple **Node.js application** inside a **Do
 ## 1️⃣ Clone the Project
 
 ```bash
-git clone https://github.com/mahimapatel93/Docker_sample_nodejs_on_Ec2.git
+git clone https://github.com/sasipreethamchandaka/Docker_sample_nodejs_on_Ec2.git
 cd Docker_sample_nodejs_on_Ec2
 ```
 
